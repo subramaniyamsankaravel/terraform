@@ -1,0 +1,8 @@
+location = "West Europe"
+resource_group_name = "rg-location-service"
+Operating_system  = "Linux"
+network_security_group = "vm-service-nsg"
+virtual_network = "vnet-service-location-env"
+subnet1 = "snet-service-env"
+virtual_machine1 = "vm-one"
+virtual_machine2 = "vm-two"
